@@ -1,0 +1,5 @@
+coolUser1: Hey, how are you doing?
+stupidUser1: Is this allowed?
+stupidUser2: IS THIS ALLOWED?
+coolUser2: hey how are you doing?
+stupidUser3: is this allowed?

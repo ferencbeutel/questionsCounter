@@ -1,0 +1,2 @@
+coolUser1: This is a great chat!
+stupidUser1: how long have you been doing this?
